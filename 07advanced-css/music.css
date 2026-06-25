@@ -11,6 +11,7 @@ body {
 
 /* header stuff here */
 header {
+    display: flex;
     background-color: #BFB38F;
     padding: 1rem 10px;
 }
